@@ -1,0 +1,10 @@
+.button_con{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    
+}
+
+.timefont{
+    font-size:xx-large;
+}
